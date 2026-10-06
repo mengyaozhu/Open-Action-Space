@@ -31,25 +31,19 @@ The resulting cycle can be summarized as:
 
 **requirement $\rightarrow$ action exploration $\rightarrow$ contextualization or engineering $\rightarrow$ execution $\rightarrow$ evaluation $\rightarrow$ verification $\rightarrow$ repository accumulation**
 
-**Requirement**
-$\downarrow$
 
-**Action Exploration**
-$\downarrow$
 
-**Contextualization or Engineering**
-$\downarrow$
 
-**Execution**
-$\downarrow$
+flowchart TD
+    A[Requirement] --> B[Action Exploration]
+    B --> C[Contextualization or Engineering]
+    C --> D[Execution]
+    D --> E[Evaluation]
+    E --> F[Verification]
+    F --> G[Repository Accumulation]
 
-**Evaluation**
-$\downarrow$
 
-**Verification**
-$\downarrow$
 
-**Repository Accumulation**
 
 ## What Is the Action Space?
 
