@@ -29,7 +29,7 @@ A newly engineered action may be promoted to an Action Repository when it has be
 
 The resulting cycle can be summarized as:
 
-**requirement → action exploration → contextualization or engineering → execution → evaluation → verification → repository accumulation**
+**requirement $\rightarrow$ action exploration $\rightarrow$ contextualization or engineering $\rightarrow$ execution $\rightarrow$ evaluation $\rightarrow$ verification $\rightarrow$ repository accumulation**
 
 ## What Is the Action Space?
 
@@ -56,7 +56,7 @@ A task represents a desired objective or outcome. A task may be accomplished thr
 
 The central operational relationship is therefore:
 
-**task → subtask → action**
+**task $\rightarrow$ subtask $\rightarrow$ action**
 
 The Action Space operates at the action level. It provides a place to determine whether an established action is sufficient, whether it needs contextualization, whether multiple actions should be composed, or whether a new action needs to be engineered.
 
@@ -76,7 +76,7 @@ The two concepts are complementary:
 
 An action can move between the two as it is developed and evaluated:
 
-**Action Repository → Action Space → evaluation → Action Repository**
+**Action Repository $\rightarrow$ Action Space $\rightarrow$ evaluation $\rightarrow$ Action Repository**
 
 This does not imply that every action-space activity must produce a new action. Many task-based action adaptations may remain contextual and task-specific, and are only valid for specific scenarios.
 
@@ -140,8 +140,6 @@ The **Universal Action Repository (UAR)** and **Open Action Space (OAS)** serve 
 **OAS** focuses on the exploration, adaptation, construction, and engineering of actions.
 
 Together they represent two complementary parts of an evolving action-centered execution system:
-
-**Action Repository ↔ Action Space**
 
 **Action Repository $\leftrightarrow$ Action Space**
 
