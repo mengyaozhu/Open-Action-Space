@@ -33,7 +33,7 @@ The resulting cycle can be summarized as:
 
 
 
-
+```mermaid
 flowchart TD
     A[Requirement] --> B[Action Exploration]
     B --> C[Contextualization or Engineering]
@@ -41,7 +41,7 @@ flowchart TD
     D --> E[Evaluation]
     E --> F[Verification]
     F --> G[Repository Accumulation]
-
+```
 
 
 
