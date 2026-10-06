@@ -52,7 +52,7 @@ The Action Space therefore represents the **adaptive and generative side** of an
 
 OAS follows the action-centered perspective of ARISE.
 
-A task represents a desired objective or outcome. A task may be accomplished through a single action or decomposed into subtasks, each requiring one or more actions.
+A task represents a desired objective or outcome. A task may be accomplished through a single action or decomposed into subtasks, each requiring one action to implement.
 
 The central operational relationship is therefore:
 
@@ -78,7 +78,7 @@ An action can move between the two as it is developed and evaluated:
 
 **Action Repository → Action Space → evaluation → Action Repository**
 
-This does not imply that every action-space activity must produce a repository entry. Many adaptations may remain contextual and task-specific.
+This does not imply that every action-space activity must produce a new action. Many task-based action adaptations may remain contextual and task-specific, and are only valid for specific scenarios.
 
 ## Open Action Space
 
@@ -142,6 +142,8 @@ The **Universal Action Repository (UAR)** and **Open Action Space (OAS)** serve 
 Together they represent two complementary parts of an evolving action-centered execution system:
 
 **Action Repository ↔ Action Space**
+
+**Action Repository $\leftrightarrow$ Action Space**
 
 Established actions provide starting points for new task execution, while action-space activities can generate new operational knowledge that may eventually become reusable repository actions.
 
