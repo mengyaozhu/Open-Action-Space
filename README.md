@@ -31,6 +31,26 @@ The resulting cycle can be summarized as:
 
 **requirement $\rightarrow$ action exploration $\rightarrow$ contextualization or engineering $\rightarrow$ execution $\rightarrow$ evaluation $\rightarrow$ verification $\rightarrow$ repository accumulation**
 
+**Requirement**
+$\downarrow$
+
+**Action Exploration**
+$\downarrow$
+
+**Contextualization or Engineering**
+$\downarrow$
+
+**Execution**
+$\downarrow$
+
+**Evaluation**
+$\downarrow$
+
+**Verification**
+$\downarrow$
+
+**Repository Accumulation**
+
 ## What Is the Action Space?
 
 The Action Space is not simply another collection of actions.
