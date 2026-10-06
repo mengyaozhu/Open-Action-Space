@@ -29,21 +29,7 @@ A newly engineered action may be promoted to an Action Repository when it has be
 
 The resulting cycle can be summarized as:
 
-**requirement $\rightarrow$ action exploration $\rightarrow$ contextualization or engineering $\rightarrow$ execution $\rightarrow$ evaluation $\rightarrow$ verification $\rightarrow$ repository accumulation**
-
-
-
-```mermaid
-flowchart TD
-    A[Requirement] --> B[Action Exploration]
-    B --> C[Contextualization or Engineering]
-    C --> D[Execution]
-    D --> E[Evaluation]
-    E --> F[Verification]
-    F --> G[Repository Accumulation]
-```
-
-
+**user-defined task $\rightarrow$ action exploration $\rightarrow$ contextualization or engineering $\rightarrow$ execution $\rightarrow$ evaluation $\rightarrow$ verification $\rightarrow$ repository accumulation**
 
 ## What Is the Action Space?
 
